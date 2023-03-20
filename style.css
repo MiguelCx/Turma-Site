@@ -17,4 +17,14 @@
 .listaitem{
     display: inline-block;
     margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-imagem{
+    width: 35%;
+}
+.escola{
+    background-image: linear-gradient(#2e3947,#1d5db1);
+    color: aliceblue;
+    display: flex;
 }
