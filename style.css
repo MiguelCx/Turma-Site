@@ -53,7 +53,7 @@ body{
     align-items: center;
     padding: 65px 0;
 }
-.Larisa{
+.nome-estudantes{
     color: aliceblue;
 }
 .estudantes2-imagem{
@@ -67,8 +67,10 @@ body{
 }
 .div1{
     text-align: center;
-    justify-content: space-around;
-}
+        justify-content: space-around;
+
+    }
 .todos-estudantes{
-    
-}
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
